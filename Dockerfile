@@ -1,4 +1,4 @@
-FROM novosalus/adoptopenjdk-android:latest
+FROM novosalus/adoptopenjdk-android:focal-jdk-11
 
 ARG BUILD_DATE
 ARG BUILD_VERSION
